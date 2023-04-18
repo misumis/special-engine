@@ -1,2 +1,3 @@
 if __name__ == '__main__':
-    print("Material cost: 1$")
+    cost = 10
+    print(f"Material cost: {cost}$")
